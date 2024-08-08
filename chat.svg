@@ -257,7 +257,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Data Science Aficionado </text>
-    <text x="15" y="50">Assembling Production-Ready ML apps</text>
+    <text x="15" y="50">Machine Learning & AI</text>
   </g>
 
   <!-- typing 3 -->
@@ -281,8 +281,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Fall in love with LLM models ❤️</text>    
-    <text x="15" y="50">Building something out of the box now</text>
+    <text x="15" y="27">Reinforcement Learning & LLM Agents Around Me</text>    
+    <text x="15" y="50">Ready to Build</text>
   </g>
 
   <!-- typing 4 -->
@@ -307,7 +307,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="200" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Curious Fellow</text>
+    <text x="15" y="27">A night-time script kiddie with data</text>
   </g>
    <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
@@ -330,7 +330,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/izammohammed/">Linkedin ...</a></text>    
+    <text x="15" y="27">My linkedin <a xlink:href="https://www.linkedin.com/in/izammohammed/">Linkedin ...</a></text>    
   </g>  
   
 
