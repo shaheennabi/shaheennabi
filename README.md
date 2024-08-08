@@ -1,4 +1,7 @@
-# Hi, I'm Shaheen Nabi 👋
+# Thanks for tuning here👋
+
+[![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
+
 
 ## Data Science Aficionado | Machine Learning & AI | Reinforcement Learning & LLM Agents Around Me | Ready to Build
 
@@ -8,7 +11,6 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheennabi&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 
-[![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
 
 
 ### 🌟 About Me
