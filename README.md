@@ -93,7 +93,7 @@ My school experience was less than ideal, but it didn't deter my passion for lea
 - **Urdu**
 - **Kashmiri**
 
-### 📫 Contact
+### 📫 Connect 
 - [LinkedIn](https://www.linkedin.com/in/shaheennabi/)
 - [Twitter (X)](https://twitter.com/shaheennabi1)
 - [Email](mailto:shaheen@example.com)
