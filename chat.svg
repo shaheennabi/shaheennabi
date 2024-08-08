@@ -281,7 +281,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">| Reinforcement Learning & LLM Agents Around Me |</text>    
+    <text x="15" y="27">Reinforcement Learning </text>    
     <text x="15" y="50">Building something out of the box now</text>
   </g>
 
