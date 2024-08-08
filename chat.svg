@@ -281,7 +281,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Fall in love with LLM models ❤️</text>    
+    <text x="15" y="27">Reinforcement Learning</text>    
     <text x="15" y="50">LLMs around me</text>
   </g>
 
@@ -330,7 +330,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">my linkedin <a xlink:href="https://www.linkedin.com/in/izammohammed/">...</a></text>    
+    <text x="15" y="27">my linkedin <a xlink:href="https://www.linkedin.com/in/izammohammed/"> click..</a></text>    
   </g>  
   
 
