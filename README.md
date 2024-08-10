@@ -41,7 +41,7 @@ I founded Lasso Pacific, where we offered AI and ML courses. Despite the challen
 **Ineuron.ai**  
 1 year course, Full Stack Data Science  
 Oct 2021 - Oct 2022  
-Learned from industry leaders like Sudhanshu Kumar (Machine Learning), Sunny Bhaveen Chandra (Deep Learning), Paul (Computer Vision), and Krish Naik (Statistics and Probability).
+Learned from industry leaders like Sudhanshu Kumar (Machine Learning), Sunny Bhaveen Chandra (Deep Learning), Paul (Computer Vision), and Krish Naik (Statistics and Probability). Sunny was great in explaining deep neural networks
 
 **Y.K. Pora H.S.S**  
 High School Diploma, Computer Science  
