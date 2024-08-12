@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 
 ![snake gif](https://github.com/shaheennabi/shaheennabi/blob/output/github-contribution-grid-snake.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheennabi&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+
 
 
 
