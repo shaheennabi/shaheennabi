@@ -87,11 +87,7 @@ My school experience was less than ideal, but it didn't deter my passion for lea
 - **Deep Learning**
 - **Machine Learning**
 
-### 🌍 Languages
-- **English**
-- **Hindi**
-- **Urdu**
-- **Kashmiri**
+
 
 ### 📫 Connect 
 - [LinkedIn](https://www.linkedin.com/in/shaheennabi/)
