@@ -27,11 +27,7 @@ Hi, I’m Shaheen! My expertise spans a broad range of fields including:
 - **MLOps**
 - **DevOps**
 
-I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like Retrieval-Augmented Generation (RAG) and LLM-based agents. I use statistics and mathematics to develop and refine deep learning algorithms, optimizing their performance and accuracy.
-
-
-
-
+I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like Retrieval-Augmented Generation (RAG) and LLM-based agents.
 
 
 ### 📫 Connect 
