@@ -52,39 +52,7 @@ My school experience was less than ideal, but it didn't deter my passion for lea
 ## Skills
 
 
-- **Databases**
-- **System Designing**
-- **API Development**
-- **Time Series Analysis**
-- **Diffusion Models**
-- **Transformer Models**
-- **Linux**
-- **Keras**
-- **CI/CD**
-- **Kubernetes**
-- **DevOps**
-- **LangChain**
-- **PyTorch**
-- **TensorFlow**
-- **Docker**
-- **Microsoft Azure**
-- **Git**
-- **Big Data**
-- **MLOps**
-- **LLMOps**
-- **LLMs**
-- **Statistics**
-- **AWS**
-- **Algorithms**
-- **Data Structures**
-- **Generative AI**
-- **Computer Vision**
-- **NLP**
-- **Probability**
-- **Python**
-- **Deep Reinforcement Learning**
-- **Deep Learning**
-- **Machine Learning**
+
 
 
 
@@ -93,7 +61,7 @@ My school experience was less than ideal, but it didn't deter my passion for lea
 - [Twitter (X)](https://twitter.com/shaheennabi1)
 - [Email](mailto:shaheen@example.com)
 
-Feel free to reach out to me via email at [ishaheennabi333@gmail.com](mailto:ishaheennabi333@gmail.com).
+
 
 ---
 
