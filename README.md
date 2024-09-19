@@ -29,28 +29,6 @@ Hi, I’m Shaheen! My expertise spans a broad range of fields including:
 
 I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like Retrieval-Augmented Generation (RAG) and LLM-based agents. I use statistics and mathematics to develop and refine deep learning algorithms, optimizing their performance and accuracy.
 
-### 🚀 Experience
-**Founder**  
-*Lasso Pacific · Part-time*  
-Jan 2022 - Dec 2022  
-Anantnag, Jammu & Kashmir, India  
-I founded Lasso Pacific, where we offered AI and ML courses. Despite the challenges, including lack of resources and co-workers, I gained invaluable experience in starting an ed-tech business.
-
-### 🎓 Education
-**Ineuron.ai**  
-1 year course, Full Stack Data Science  
-Oct 2021 - Oct 2022  
-Learned from industry leaders like Sudhanshu Kumar (Machine Learning), Sunny Bhaveen Chandra (Deep Learning), Paul (Computer Vision), and Krish Naik (Statistics and Probability). Sunny was great in explaining deep neural networks
-
-**Y.K. Pora H.S.S**  
-High School Diploma, Computer Science  
-Apr 2021 - Oct 2023  
-Grade: 75.2  
-My school experience was less than ideal, but it didn't deter my passion for learning and growth.
-
-### 🛠️ Skills
-## Skills
-
 
 
 
