@@ -5,7 +5,8 @@
 
 ## Data Science Aficionado | Machine Learning & AI | Reinforcement Learning & LLM Agents Around Me | Ready to Build
 
-Welcome to my GitHub profile! I’m a passionate data scientist with a strong focus on end-to-end projects and system design. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist, my journey has been both challenging and rewarding. I am still learning lot of things from base, and will end up building some great projects ahead.
+Welcome to my GitHub profile! I’m a passionate data scientist with a strong focus on end-to-end projects and system design. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist. I am still learning lot of things from base, and will end up building some great projects in the future. I will be actively contributing to open-source & I believe the real world knowledge comes from solving real world, not by any  academmic credential.  
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheennabi&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
