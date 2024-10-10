@@ -16,20 +16,6 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Langchain](https://img.shields.io/badge/Langchain-343131?style=for-the-badge&logo=LangChain&logoColor=white)](https://github.com/hwchase17/langchain)
 
-## Project Overview
-This project leverages multiple machine learning and deep learning libraries for data analysis, model training, and inference. Here's a brief overview of the tools used:
-
-- **Python**: The primary programming language used in this project.
-- **scikit-learn**: For traditional machine learning algorithms.
-- **TensorFlow**: Deep learning framework used for training neural networks.
-- **PyTorch**: Another deep learning framework used in certain model architectures.
-- **Langchain**: For building language model-powered applications.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/project-name.git
 
 
 
