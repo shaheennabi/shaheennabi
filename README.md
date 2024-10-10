@@ -29,24 +29,27 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
   <a href="https://github.com/hwchase17/langchain">
     <img src="https://img.shields.io/badge/Langchain-343131?style=for-the-badge&logo=LangChain&logoColor=white" height="50">
   </a>
-  <a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" height="50">
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="50">
   </a>
 </p>
 
 <p align="center">
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" height="50">
+  </a>
   <a href="https://llamaindex.ai/">
     <img src="https://img.shields.io/badge/LlamaIndex-008000?style=for-the-badge&logo=LlamaIndex&logoColor=white" height="50">
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="50">
   </a>
-  <a href="https://azure.microsoft.com/">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="50">
-  </a>
 </p>
 
 <p align="center">
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="50">
+  </a>
   <a href="https://cloud.google.com/vertex-ai">
     <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="50">
   </a>
@@ -55,14 +58,32 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="50">
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="50">
+  </a>
+</p>
 
-## Project Overview
+<p align="center">
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="50">
+  </a>
+</p>
+
+
+
 
 
 
 
 ### 🌟 About Me
-Hi, I’m Shaheen! My expertise spans a broad range of fields including:
+My expertise spans a broad range of fields including:
 
 - **Machine Learning**
 - **Deep Learning**
