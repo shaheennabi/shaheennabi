@@ -74,8 +74,13 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
   <a href="https://github.com/features/actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="50">
   </a>
+  <a href="https://www.kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="50">
+  </a>
+  <a href="https://crew.ai/">
+    <img src="https://img.shields.io/badge/Crew%20AI-FF6F00?style=for-the-badge&logo=crewai&logoColor=white" height="50">
+  </a>
 </p>
-
 
 
 
