@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 
 # My Tools & Technologies
 
-# My AI/ML Project
-
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" height="50">
