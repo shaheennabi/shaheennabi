@@ -8,7 +8,7 @@
 Welcome to my GitHub profile! I’m a passionate data scientist with a strong focus on end-to-end projects and system design with software's best practices. I try to design and implement solutions by using design principles and patterns, as writing reusable and easy to read code wins at many stages. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist. My jouney has been so much challenging at every stage, but I am still learning lot of things from base, and will end up building some great projects in the future. I will be actively contributing to open-source & I believe the real world knowledge comes from solving real world problems, not just by any academmic credential.  
 
 
-# My Awesome Data Science Project
+# My Tools & Technologies
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
