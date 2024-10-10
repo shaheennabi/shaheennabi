@@ -10,19 +10,53 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 
 # My Tools & Technologies
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Langchain](https://img.shields.io/badge/Langchain-343131?style=for-the-badge&logo=LangChain&logoColor=white)](https://github.com/hwchase17/langchain)
+# My AI/ML Project
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
-[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-008000?style=for-the-badge&logo=LlamaIndex&logoColor=white)](https://llamaindex.ai/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" height="50">
+  </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="50">
+  </a>
+</p>
 
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/vertex-ai)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+<p align="center">
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="50">
+  </a>
+  <a href="https://github.com/hwchase17/langchain">
+    <img src="https://img.shields.io/badge/Langchain-343131?style=for-the-badge&logo=LangChain&logoColor=white" height="50">
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://llamaindex.ai/">
+    <img src="https://img.shields.io/badge/LlamaIndex-008000?style=for-the-badge&logo=LlamaIndex&logoColor=white" height="50">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="50">
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cloud.google.com/vertex-ai">
+    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="50">
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50">
+  </a>
+</p>
+
 
 ## Project Overview
 
