@@ -82,8 +82,7 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 
 
 
-### 🌟 About Me
-My expertise spans a broad range of fields including:
+### 🌟 My expertise spans a broad range of fields including:
 
 - **Machine Learning**
 - **Deep Learning**
