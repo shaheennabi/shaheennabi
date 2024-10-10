@@ -16,6 +16,16 @@ Welcome to my GitHub profile! I’m a passionate data scientist with a strong fo
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Langchain](https://img.shields.io/badge/Langchain-343131?style=for-the-badge&logo=LangChain&logoColor=white)](https://github.com/hwchase17/langchain)
 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-008000?style=for-the-badge&logo=LlamaIndex&logoColor=white)](https://llamaindex.ai/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/vertex-ai)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
+## Project Overview
+
 
 
 
