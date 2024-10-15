@@ -125,7 +125,8 @@ I am dedicated to contributing to open-source AI projects and staying up-to-date
 
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
+
+My Github Stats 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheennabi&theme=dracula) 
 
