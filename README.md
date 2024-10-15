@@ -2,6 +2,8 @@
 
 [![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
 
+---
+
 <br/>
 
 <div align="center">
@@ -11,6 +13,9 @@
 </div>
 
 <br/>
+
+---
+
 
 
 
