@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://shaheennabi.github.io">
-        <img src="https://img.shields.io/badge/Website-shaheennabi.github.io-red?style=flat-square&logo=globe&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/Website-shaheennabi.github.io-red?style=flat-square&logo=globe&logoColor=white" height="100">
     </a>  
     <a href="https://www.linkedin.com/in/shaheennabi/">
-        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" height="100">
     </a>
     <a href="mailto:ishaheennabi333@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="100">
     </a>
     <br/> 
     <a href="https://github.com/shaheennabi">
