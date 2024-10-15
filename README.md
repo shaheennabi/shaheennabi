@@ -128,64 +128,69 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 ### 🌟 My Expertise Spans a Broad Range of Fields
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Machine_Learning-FF8C00?style=flat-square&logo=python" alt="Machine Learning" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=flat-square&logo=tensorflow" alt="Deep Learning" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Computer_Vision-1E90FF?style=flat-square&logo=opencv" alt="Computer Vision" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square&logo=nlg" alt="NLP" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="150">**Machine Learning**</td>
-            <td align="center" width="150">**Deep Learning**</td>
-            <td align="center" width="150">**Computer Vision**</td>
-            <td align="center" width="150">**NLP**</td>
-        </tr>
-        <tr>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Generative_AI-FFD700?style=flat-square&logo=ai" alt="Generative AI" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Big_Data-32CD32?style=flat-square&logo=apache" alt="Big Data" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Reinforcement_Learning-8B0000?style=flat-square&logo=keras" alt="Reinforcement Learning" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/LLMs-FF69B4?style=flat-square&logo=openai" alt="Large Language Models (LLMs)" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="150">**Generative AI**</td>
-            <td align="center" width="150">**Big Data**</td>
-            <td align="center" width="150">**Reinforcement Learning**</td>
-            <td align="center" width="150">**LLMs**</td>
-        </tr>
-        <tr>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/Cloud_Technologies-00CED1?style=flat-square&logo=aws" alt="Cloud Technologies" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/MLOps-FFA07A?style=flat-square&logo=ml" alt="MLOps" />
-            </td>
-            <td align="center" width="150">
-                <img src="https://img.shields.io/badge/DevOps-FF6347?style=flat-square&logo=docker" alt="DevOps" />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="150">**Cloud Technologies**</td>
-            <td align="center" width="150">**MLOps**</td>
-            <td align="center" width="150">**DevOps**</td>
-        </tr>
-    </table>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+        
+        <div>
+            <img src="https://img.shields.io/badge/Machine_Learning-FF8C00?style=flat-square&logo=python" alt="Machine Learning" />
+            <h4>Machine Learning</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=flat-square&logo=tensorflow" alt="Deep Learning" />
+            <h4>Deep Learning</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/Computer_Vision-1E90FF?style=flat-square&logo=opencv" alt="Computer Vision" />
+            <h4>Computer Vision</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square&logo=nlg" alt="NLP" />
+            <h4>NLP</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/Generative_AI-FFD700?style=flat-square&logo=ai" alt="Generative AI" />
+            <h4>Generative AI</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/Big_Data-32CD32?style=flat-square&logo=apache" alt="Big Data" />
+            <h4>Big Data</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/Reinforcement_Learning-8B0000?style=flat-square&logo=keras" alt="Reinforcement Learning" />
+            <h4>Reinforcement Learning</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/LLMs-FF69B4?style=flat-square&logo=openai" alt="Large Language Models (LLMs)" />
+            <h4>Large Language Models (LLMs)</h4>
+        </div>
+
+        <div>
+            <img src="https://img.shields.io/badge/Cloud_Technologies-00CED1?style=flat-square&logo=aws" alt="Cloud Technologies" />
+            <h4>Cloud Technologies</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/MLOps-FFA07A?style=flat-square&logo=ml" alt="MLOps" />
+            <h4>MLOps</h4>
+        </div>
+
+        <div>
+            <img src="https://img.shields.io/badge/DevOps-FF6347?style=flat-square&logo=docker" alt="DevOps" />
+            <h4>DevOps</h4>
+        </div>
+        
+        <div>
+            <img src="https://img.shields.io/badge/Research-4682B4?style=flat-square&logo=researchgate" alt="Research" />
+            <h4>Research</h4>
+        </div>
+        
+    </div>
 </div>
 
 ---
