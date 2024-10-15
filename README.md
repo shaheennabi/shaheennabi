@@ -3,7 +3,7 @@
 [![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
 
 
-<p align="center">
+<div style="text-align: center;">
     <br/>
 
     <a href="https://shaheennabi.github.io">
@@ -22,7 +22,8 @@
     <a href="https://github.com/shaheennabi">
         <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     </a>
-</p>
+</div>
+
 
 
 
