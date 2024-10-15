@@ -137,9 +137,10 @@ My Github Stats 👋
 
 | Title | Stars | Technologies |
 |--|--|--|
-| [us-visa-end-to-end-project](https://github.com/shaheennabi/us-visa-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/us-visa-end-to-end-project?style=flat-square&labelColor=black" height="20"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&height=30) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&height=30) |
-| [object-detection-end-to-end-project](https://github.com/shaheennabi/object-detection-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/object-detection-end-to-end-project?style=flat-square&labelColor=black" height="20"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&height=30) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision&height=30) |
+| [us-visa-end-to-end-project](https://github.com/shaheennabi/US-visa-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/US-visa-end-to-end-project?style=flat-square&labelColor=black" height="20"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&height=30) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&height=30) |
+| [object-detection-end-to-end-project](https://github.com/shaheennabi/Object-detection-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/Object-detection-end-to-end-project?style=flat-square&labelColor=black" height="20"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&height=30) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision&height=30) |
 | [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" height="20"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=30) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=30) |
+
 
 ---
 
