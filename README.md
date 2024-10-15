@@ -14,9 +14,10 @@
     </a>
     <br/> 
     <a href="https://github.com/shaheennabi">
-        <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="150" width="1000">
+        <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="800">
     </a>
 </p>
+
 
 
 
