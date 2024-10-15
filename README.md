@@ -43,7 +43,8 @@
 
 # Welcome to my GitHub profile!
 
-I’m a passionate data scientist with a strong focus on end-to-end projects and system design with software's best practices. I try to design and implement solutions by using design principles and patterns, as writing reusable and easy to read code wins at many stages. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist. My jouney has been so much challenging at every stage, but I am still learning lot of things from base, and will end up building some great projects in the future. I will be actively contributing to open-source & I believe the real world knowledge comes from solving real world problems, not just by any academic credential.  
+I’m a passionate data scientist with a strong focus on end-to-end projects and system design with software's best practices. I try to design and implement solutions by using design principles and patterns, as writing reusable and easy to read code wins at many stages. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist. My jouney has been so much challenging at every stage, but I am still learning lot of things from base, and will end up building some great projects in the future. I will be actively contributing to open-source & I believe the real world knowledge comes from solving real world problems, not just by any academic credential.
+
 
 <br>
 </br>
@@ -142,14 +143,14 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
   </a>
 </p>
 
+ I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**
 
 
 
 
 
 
-
-<summary></summary>
+<summary>Hello AI in the City</summary>
 <br>
 
 ## My Github Status from Graphs
@@ -169,12 +170,11 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 
 | Title | Stars | Technologies |
 |--|--|--|
-| [us-visa-end-to-end-project](https://github.com/shaheennabi/US-visa-machine-learning-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/US-visa-machine-learning-end-to-end-project?style=flat-square&labelColor=black" width="180" height="30"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&height=40) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&height=40) |
-| [object-detection-end-to-end-project](https://github.com/shaheennabi/Object_detection-End-to-End-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/Object_detection-End-to-End-project?style=flat-square&labelColor=black" width="180" height="30"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&height=40) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision&height=40) |
-| [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" width="180" height="30"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=40) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=40) |
+| [us-visa-end-to-end-project](https://github.com/shaheennabi/US-visa-machine-learning-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/US-visa-machine-learning-end-to-end-project?style=flat-square&labelColor=black" width="180" height="25"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&height=40) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&height=40) |
+| [object-detection-end-to-end-project](https://github.com/shaheennabi/Object_detection-End-to-End-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/Object_detection-End-to-End-project?style=flat-square&labelColor=black" width="180" height="25"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&height=40) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision&height=40) |
+| [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" width="180" height="25"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=40) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=40) |
 
 
-I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**.  
 ## Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
 
 
