@@ -125,21 +125,73 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 
 
 
-### 🌟 My expertise spans a broad range of fields including:
+### 🌟 My Expertise Spans a Broad Range of Fields
 
-- **Machine Learning**
-- **Deep Learning**
-- **Computer Vision**
-- **NLP**
-- **Generative AI**
-- **Big Data**
-- **Reinforcement Learning**
-- **Large Language Models (LLMs)**
-- **Cloud Technologies**
-- **MLOps**
-- **DevOps**
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Machine_Learning-FF8C00?style=flat-square&logo=python" alt="Machine Learning" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=flat-square&logo=tensorflow" alt="Deep Learning" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Computer_Vision-1E90FF?style=flat-square&logo=opencv" alt="Computer Vision" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square&logo=nlg" alt="NLP" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="150">**Machine Learning**</td>
+            <td align="center" width="150">**Deep Learning**</td>
+            <td align="center" width="150">**Computer Vision**</td>
+            <td align="center" width="150">**NLP**</td>
+        </tr>
+        <tr>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Generative_AI-FFD700?style=flat-square&logo=ai" alt="Generative AI" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Big_Data-32CD32?style=flat-square&logo=apache" alt="Big Data" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Reinforcement_Learning-8B0000?style=flat-square&logo=keras" alt="Reinforcement Learning" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/LLMs-FF69B4?style=flat-square&logo=openai" alt="Large Language Models (LLMs)" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="150">**Generative AI**</td>
+            <td align="center" width="150">**Big Data**</td>
+            <td align="center" width="150">**Reinforcement Learning**</td>
+            <td align="center" width="150">**LLMs**</td>
+        </tr>
+        <tr>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/Cloud_Technologies-00CED1?style=flat-square&logo=aws" alt="Cloud Technologies" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/MLOps-FFA07A?style=flat-square&logo=ml" alt="MLOps" />
+            </td>
+            <td align="center" width="150">
+                <img src="https://img.shields.io/badge/DevOps-FF6347?style=flat-square&logo=docker" alt="DevOps" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="150">**Cloud Technologies**</td>
+            <td align="center" width="150">**MLOps**</td>
+            <td align="center" width="150">**DevOps**</td>
+        </tr>
+    </table>
+</div>
 
-I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like Retrieval-Augmented Generation (RAG) and LLM-based agents.
+---
+
+✨ I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**.
+
 
 
 <summary>📈 Stats</summary>
