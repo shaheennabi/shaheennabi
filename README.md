@@ -3,33 +3,25 @@
 [![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
 
 
-<br/>
+<p align="center">
+    <br/>
 
-<a href="https://shaheennabi.github.io">
-    <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
-</a>  
+    <a href="https://shaheennabi.github.io">
+        <img src="https://img.shields.io/badge/Website-shaheennabi.github.io-red?style=flat-square">
+    </a>  
 
-<a href="https://www.linkedin.com/in/shaheennabi/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:ishaheennabi333@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+    <a href="https://www.linkedin.com/in/shaheennabi/">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:ishaheennabi333@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    </a>
 
-<!-- <a href="https://pypi.org/user/your_pypi_username/">
-    <img src="https://komarev.com/ghpvc/?username=your_github_username&label=Visitors&color=0e75b6&style=flat" alt="shaheennabi" />
-</a> -->
+    <br/> 
 
-<br/> 
-
-<!-- <a href="https://github.com/shaheennabi">
-    <img src="https://github-readme-stats.vercel.app/api?username=shaheennabi&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
-
-<a href="https://github.com/shaheennabi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
+    <a href="https://github.com/shaheennabi">
+        <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    </a>
 </p>
 
 
