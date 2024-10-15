@@ -2,7 +2,6 @@
 
 [![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
 
-
 <p align="center">
     <a href="https://shaheennabi.github.io">
         <img src="https://img.shields.io/badge/Website-shaheennabi.github.io-red?style=flat-square&logo=globe&logoColor=white" height="30">
@@ -18,6 +17,7 @@
         <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="150">
     </a>
 </p>
+
 
 
 # Welcome to my GitHub profile!
