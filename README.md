@@ -5,24 +5,17 @@
 
 <br/>
 
-<a href="(https://shaheennabi.github.io/)">
+<a href="https://shaheennabi.github.io">
     <img src="https://img.shields.io/badge/Website-yourwebsite.com-red?style=flat-square">
 </a>  
-<a href="https://yourwebsite.com/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
+
 <a href="https://www.linkedin.com/in/shaheennabi/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:ishaheennabi333@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=your_google_scholar_id' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href="https://pypi.org/user/your_pypi_username/">
-    <img src="https://img.shields.io/badge/PyPi-your_pypi_username-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
+
 <!-- <a href="https://pypi.org/user/your_pypi_username/">
     <img src="https://komarev.com/ghpvc/?username=your_github_username&label=Visitors&color=0e75b6&style=flat" alt="shaheennabi" />
 </a> -->
