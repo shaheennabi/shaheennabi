@@ -123,7 +123,17 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like Retrieval-Augmented Generation (RAG) and LLM-based agents.
 
 
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheennabi&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheennabi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheennabi&theme=dracula)
+
+
+<br>
 
 
 
