@@ -49,7 +49,7 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 <br>
 </br>
 
-## 🌟 My Expertise Spans a Broad Range of Fields
+# 🌟 My Expertise Spans a Broad Range of Fields
 <br> <!-- Add space between the title and the badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300A1D6.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Machine Learning" height="50" />
