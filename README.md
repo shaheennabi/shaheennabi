@@ -65,7 +65,8 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
   <img src="https://img.shields.io/badge/Research-%23F7B7A5.svg?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research" height="50" />
 </p>
 
-
+<br>
+</br>
 # My Tools & Technologies
 
 <p align="center">
@@ -171,7 +172,8 @@ My Github Stats 👋
 | [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" width="150" height="40"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=40) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=40) |
 
 
-I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**.  Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
+I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**.  
+## Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
 
 
 
