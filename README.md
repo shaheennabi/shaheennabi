@@ -125,77 +125,55 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 
 
 
-### 🌟 My Expertise Spans a Broad Range of Fields
+<div align="center" style="font-family: 'Arial', sans-serif; background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
 
-<div align="center">
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
-        
-        <div>
-            <img src="https://img.shields.io/badge/Machine_Learning-FF8C00?style=flat-square&logo=python" alt="Machine Learning" />
-            <h4>Machine Learning</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=flat-square&logo=tensorflow" alt="Deep Learning" />
-            <h4>Deep Learning</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/Computer_Vision-1E90FF?style=flat-square&logo=opencv" alt="Computer Vision" />
-            <h4>Computer Vision</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square&logo=nlg" alt="NLP" />
-            <h4>NLP</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/Generative_AI-FFD700?style=flat-square&logo=ai" alt="Generative AI" />
-            <h4>Generative AI</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/Big_Data-32CD32?style=flat-square&logo=apache" alt="Big Data" />
-            <h4>Big Data</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/Reinforcement_Learning-8B0000?style=flat-square&logo=keras" alt="Reinforcement Learning" />
-            <h4>Reinforcement Learning</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/LLMs-FF69B4?style=flat-square&logo=openai" alt="Large Language Models (LLMs)" />
-            <h4>Large Language Models (LLMs)</h4>
-        </div>
+  <h2 style="color: #4CAF50;">🌟 My Expertise Spans a Broad Range of Fields</h2>
 
-        <div>
-            <img src="https://img.shields.io/badge/Cloud_Technologies-00CED1?style=flat-square&logo=aws" alt="Cloud Technologies" />
-            <h4>Cloud Technologies</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/MLOps-FFA07A?style=flat-square&logo=ml" alt="MLOps" />
-            <h4>MLOps</h4>
-        </div>
-
-        <div>
-            <img src="https://img.shields.io/badge/DevOps-FF6347?style=flat-square&logo=docker" alt="DevOps" />
-            <h4>DevOps</h4>
-        </div>
-        
-        <div>
-            <img src="https://img.shields.io/badge/Research-4682B4?style=flat-square&logo=researchgate" alt="Research" />
-            <h4>Research</h4>
-        </div>
-        
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Machine Learning</h3>
     </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Deep Learning</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Computer Vision</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">NLP</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Generative AI</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Big Data</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Reinforcement Learning</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">LLMs</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Cloud Technologies</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">MLOps</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">DevOps</h3>
+    </div>
+    <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; background-color: #fff;">
+      <h3 style="color: #4CAF50;">Research</h3>
+    </div>
+  </div>
+
+  <p style="margin-top: 20px; color: #555;">
+    I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>LLM-based agents</strong>.
+  </p>
 </div>
 
 ---
-
-✨ I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**.
 
 
 
