@@ -1,6 +1,14 @@
 # Thanks for tuning here👋
 
 [![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/) 
+<p align="center">
+<a href="https://github.com/shaheennabi">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Explore+Repositories;Give+%7C+your+feedback+%7C+much+appreciated;AI+%7C+in the 
+ +%7C+City" alt="Typing SVG" />
+</a>
+<br/>
+
+
 
 <p align="center">
     <a href="https://shaheennabi.github.io">
