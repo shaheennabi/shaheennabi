@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/shaheennabi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Explore+Repositories;Give+%7C+your+feedback+%7C+much+appreciated;AI+%7C+in+the+City" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Explore+Repos;Your+Feedback+is+Appreciated;AI+in+the+City" alt="Typing SVG" />
 </a>
 
 </div>
