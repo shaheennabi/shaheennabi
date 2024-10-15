@@ -127,22 +127,21 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 ### 🌟 My Expertise Spans a Broad Range of Fields
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300A1D6.svg?style=for-the-badge&logo=google-analytics&height=100" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6600.svg?style=for-the-badge&logo=tensorflow&height=100" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-%233B5998.svg?style=for-the-badge&logo=opencv&height=100" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NLP-%238C7B8D.svg?style=for-the-badge&logo=twitter&height=40" alt="NLP" />
-  <img src="https://img.shields.io/badge/Generative%20AI-%23FFCC00.svg?style=for-the-badge&logo=openai&height=100" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Big%20Data-%23000BFF.svg?style=for-the-badge&logo=apache&height=100" alt="Big Data" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F61.svg?style=for-the-badge&logo=python&height=100" alt="Reinforcement Learning" />
-  <img src="https://img.shields.io/badge/LLMs-%2339B54A.svg?style=for-the-badge&logo=github&height=40" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Cloud%20Technologies-%23F7B7A5.svg?style=for-the-badge&logo=aws&height=40" alt="Cloud Technologies" />
-  <img src="https://img.shields.io/badge/MLOps-%23008000.svg?style=for-the-badge&logo=docker&height=40" alt="MLOps" />
-  <img src="https://img.shields.io/badge/DevOps-%233C3E50.svg?style=for-the-badge&logo=git&height=40" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Research-%23F7B7A5.svg?style=for-the-badge&logo=researchgate&height=40" alt="Research" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300A1D6.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Machine Learning" height="50" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6600.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" height="50" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-%233B5998.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="50" />
+  <img src="https://img.shields.io/badge/NLP-%238C7B8D.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="NLP" height="50" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%23FFCC00.svg?style=for-the-badge&logo=openai&logoColor=black" alt="Generative AI" height="50" />
+  <img src="https://img.shields.io/badge/Big%20Data-%23000BFF.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data" height="50" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white" alt="Reinforcement Learning" height="50" />
+  <img src="https://img.shields.io/badge/LLMs-%2339B54A.svg?style=for-the-badge&logo=github&logoColor=white" alt="LLMs" height="50" />
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-%23F7B7A5.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud Technologies" height="50" />
+  <img src="https://img.shields.io/badge/MLOps-%23008000.svg?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" height="50" />
+  <img src="https://img.shields.io/badge/DevOps-%233C3E50.svg?style=for-the-badge&logo=git&logoColor=white" alt="DevOps" height="50" />
+  <img src="https://img.shields.io/badge/Research-%23F7B7A5.svg?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research" height="50" />
 </p>
 
 I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**.
-
 
 
 <summary>📈 Stats</summary>
