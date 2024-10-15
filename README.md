@@ -133,8 +133,13 @@ My Github Stats 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheennabi&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheennabi&theme=dracula)
 
-
 <br>
+
+| Title | Stars | Technologies |
+|--|--|--|
+| [us-visa-end-to-end-project](https://github.com/shaheennabi/us-visa-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/us-visa-end-to-end-project?style=flat-square&labelColor=black"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws) |
+| [object-detection-end-to-end-project](https://github.com/shaheennabi/object-detection-end-to-end-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/object-detection-end-to-end-project?style=flat-square&labelColor=black"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision) |
+| [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) |
 
 
 
