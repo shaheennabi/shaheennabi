@@ -49,7 +49,7 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 <br>
 </br>
 
-### 🌟 My Expertise Spans a Broad Range of Fields
+## 🌟 My Expertise Spans a Broad Range of Fields
 <br> <!-- Add space between the title and the badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300A1D6.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Machine Learning" height="50" />
@@ -150,7 +150,8 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 </br>
 
 ## My Github Status from Graphs
-
+<br>
+</br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheennabi&theme=dracula) 
 
@@ -170,7 +171,8 @@ I’m a passionate data scientist with a strong focus on end-to-end projects and
 | [object-detection-end-to-end-project](https://github.com/shaheennabi/Object_detection-End-to-End-project) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/Object_detection-End-to-End-project?style=flat-square&labelColor=black" width="180" height="20"/> | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&height=40) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision&height=40) |
 | [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" width="180" height="20"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=40) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=40) |
 
-
+<br>
+</br>
 * Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
 
 
