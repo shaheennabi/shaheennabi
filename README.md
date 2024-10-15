@@ -161,4 +161,29 @@ My Github Stats 👋
 | [End-to-End-NLP-Project-with-RNN](https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN) | <img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" width="150" height="40"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=40) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=40) |
 
 
+<table style="width: 100%; font-size: larger;">
+    <tr>
+        <th>Title</th>
+        <th>Stars</th>
+        <th>Technologies</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/shaheennabi/US-visa-machine-learning-end-to-end-project">us-visa-end-to-end-project</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/US-visa-machine-learning-end-to-end-project?style=flat-square&labelColor=black" width="90" height="20"/></td>
+        <td><img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&height=30"/> <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&height=30"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/shaheennabi/Object_detection-End-to-End-project">object-detection-end-to-end-project</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/Object_detection-End-to-End-project?style=flat-square&labelColor=black" width="90" height="20"/></td>
+        <td><img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&height=30"/> <img src="https://img.shields.io/badge/YOLO-black?style=flat-square&logo=deepvision&height=30"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/shaheennabi/End-to-End-NLP-Project-with-RNN">End-to-End-NLP-Project-with-RNN</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/shaheennabi/End-to-End-NLP-Project-with-RNN?style=flat-square&labelColor=black" width="90" height="20"/></td>
+        <td><img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&height=30"/> <img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras&height=30"/></td>
+    </tr>
+</table>
+
+
+
 Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
