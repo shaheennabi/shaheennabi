@@ -38,10 +38,13 @@
 </p>
 
 
+<br>
+</br>
 
-
+<div align="center">
 
 # 🎇🌟 ⭐ ✨ Welcome to my GitHub profile! ✨ ⭐ 🌟🎇
+</div>
 
 <div align="center">
 
