@@ -44,43 +44,52 @@
 # 🌟 ⭐ ✨ Welcome to my GitHub profile! ✨ ⭐ 🌟
 
 <div align="center">
-╔══════════════════════════════════════╗
-║  Passionate Developer & Data Scientist ║
-╚══════════════════════════════════════╝
+
+```╔══════════════════════════════════════╗```
+```║  Passionate Developer & Data Scientist ║```
+```╚══════════════════════════════════════╝```
+
 </div>
 
 🎆 I'm a **passionate data scientist** with a strong focus on **end-to-end projects** and **system design** with software's best practices. I try to design and implement solutions by using **design principles** and patterns, as writing *reusable* and *easy to read code* wins at many stages. ⭐ 🎆
 
 <div align="center">
-⭐ ============= My Journey ============= ⭐
+
+```⭐ ============= My Journey ============= ⭐```
+
 </div>
 
 ✨ From my beginnings as a **black hat script kiddie** exploring the dark web to becoming a **data scientist**. 🌌 ✨
 
 <div align="center">
-🎇 ========= Always Learning ========= 🎇
+
+```🎇 ========= Always Learning ========= 🎇```
+
 </div>
 
 🎆 My journey has been so much *challenging* at every stage, but I am still *learning lot of things* from base, and will end up building some **great projects** in the future. 🚀 🎆
 
 <div align="center">
-🌟 ======= Making an Impact ======= 🌟
+
+```🌟 ======= Making an Impact ======= 🌟```
+
 </div>
 
 🌠 I will be actively contributing to **open-source** & I believe the *real world knowledge* comes from solving **real world problems**, not just by any academic credential. 🎉 🌠
 
 <div align="center">
-╭────────────────────────────────────────────────╮
-│    "Transforming Ideas into Elegant Solutions"  │
-╰────────────────────────────────────────────────╯
+
+```╭────────────────────────────────────────────────╮```
+```│    "Transforming Ideas into Elegant Solutions"  │```
+```╰────────────────────────────────────────────────╯```
 
 ✨ Let's craft the future together! ✨
 
 🎇 🌟 ⭐ 🎆 ✨ 🌠 🎉 🚀 🌌 🎆 🎇 🌟 ⭐ ✨ 🎇 🌟 ⭐
 
 [ Connect • Code • Create ]
-</div>
 
+</div>
 
 
 
