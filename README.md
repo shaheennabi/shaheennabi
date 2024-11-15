@@ -43,7 +43,7 @@
 
 <div align="center">
 
-## 🎇🌟 ⭐ ✨ # Who I am ✨ ⭐ 🌟🎇
+## 🎇🌟 ⭐ ✨ Who I am ✨ ⭐ 🌟🎇
 </div>
 
 <div align="center">
