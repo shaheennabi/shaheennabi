@@ -53,10 +53,11 @@
 ```╚══════════════════════════════════════╝```
 
 </div>
+```
 ╔════════════════════╗
 ║ Passionate Developer & Data Scientist ║
 ╚════════════════════╝
-
+```
 I'm a **passionate data scientist** with a strong focus on **end-to-end projects** and **system design** with **software's best practices**. I try to design and implement solutions by using **design principles** and patterns, as writing **reusable** and **easy to read code** wins at many stages. 
 
 From my beginnings as a **black hat script kiddie** exploring the dark web to becoming a **data scientist**. 
