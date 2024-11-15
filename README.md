@@ -67,7 +67,7 @@
 
 </div>
 
-🎆 My journey has been so much *challenging* at every stage, but I am still *learning lot of things* from base, and will end up building some **great projects** in the future. 🚀 🎆
+🎆 My journey has been so much *challenging* at every stage, but I am still *learning a lot of things* from the base, and will end up building some **great projects** in the future. 🚀 🎆
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 </div>
 
-🌠 I will be actively contributing to **open-source** & I believe the *real world knowledge* comes from solving **real world problems**, not just by any academic credential. 🎉 🌠
+🌠 I will be actively contributing to **open-source** & I believe the *real world knowledge* comes from solving **real-world problems**, not just by any academic credential. 🎉 🌠
 
 <div align="center">
 
@@ -83,13 +83,14 @@
 ```│    "Transforming Ideas into Elegant Solutions"  │```
 ```╰────────────────────────────────────────────────╯```
 
+</div>
+
 ✨ Let's craft the future together! ✨
 
 🎇 🌟 ⭐ 🎆 ✨ 🌠 🎉 🚀 🌌 🎆 🎇 🌟 ⭐ ✨ 🎇 🌟 ⭐
 
 [ Connect • Code • Create ]
 
-</div>
 
 
 
