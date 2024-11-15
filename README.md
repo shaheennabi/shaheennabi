@@ -72,7 +72,7 @@ I will be actively contributing to **open-source** & I believe the **real world 
 </div>
 <div align="center">
 
-🎇🌟 ⭐ 🎆 ✨ 🌠 🎉 🚀 🌌 🎆 🎇 🌟 ⭐ ✨ 🎇 🌟 ⭐
+## 🎇🌟 ⭐ 🎆 ✨ 🌠 🎉 🚀 🌌 🎆 🎇 🌟 ⭐ ✨ 🎇 🌟 ⭐
 </div>
 
 
