@@ -43,7 +43,7 @@
 
 <div align="center">
 
-# 🎇🌟 ⭐ ✨ Welcome to my GitHub profile! ✨ ⭐ 🌟🎇
+## 🎇🌟 ⭐ ✨ # Who I am ✨ ⭐ 🌟🎇
 </div>
 
 <div align="center">
