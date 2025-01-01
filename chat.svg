@@ -256,7 +256,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Data Science Aficionado</text>
+    <text x="15" y="27">Data Scientist</text>
     <text x="15" y="50">Machine learning</text>
   </g>
 
