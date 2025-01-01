@@ -1,6 +1,6 @@
 # Hi, I'm Shaheen Nabi 👋
 
-## Data Science Aficionado | Machine Learning & AI | Reinforcement Learning & LLM Agents Around Me | Ready to Build
+## Data Scientist | Machine Learning & AI | Reinforcement Learning & LLM Agents Around Me | Ready to Build
 
 Welcome to my GitHub profile! I’m a passionate data scientist with a strong focus on end-to-end projects and system design. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist, my journey has been both challenging and rewarding.
 
