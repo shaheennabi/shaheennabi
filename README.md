@@ -3,8 +3,7 @@
 
 ## Data Scientist | Machine Learning & AI | Reinforcement Learning & LLM Agents Around Me | Ready to Build
 
-[![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/
-
+[![LinkedIn](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/)
 
 <div align="center">
 
@@ -203,7 +202,6 @@
 * Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
 
 
-[![](https://github.com/shaheennabi/shaheennabi/blob/main/chat.svg)](https://www.linkedin.com/in/shaheennabi/)
 =======
 
 
