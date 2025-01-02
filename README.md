@@ -1,103 +1,212 @@
-# Hi, I'm Shaheen Nabi 👋
+# Thanks for tuning here👋
+
 
 ## Data Scientist | Machine Learning & AI | Reinforcement Learning & LLM Agents Around Me | Ready to Build
 
-Welcome to my GitHub profile! I’m a passionate data scientist with a strong focus on end-to-end projects and system design. From my beginnings as a black hat script kiddie exploring the dark web to becoming a data scientist, my journey has been both challenging and rewarding.
-
-![snake gif](https://github.com/shaheennabi/shaheennabi/blob/output/github-contribution-grid-snake.gif)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheennabi&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-
-[![](https://github.com/shaheennabi/shaheennabi/blob/main/chat.svg)](https://www.linkedin.com/in/shaheennabi/)
+[![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/
 
 
-### 🌟 About Me
-Hi, I’m Shaheen! My expertise spans a broad range of fields including:
+<div align="center">
 
-- **Machine Learning**
-- **Deep Learning**
-- **Computer Vision**
-- **NLP**
-- **Generative AI**
-- **Big Data**
-- **Reinforcement Learning**
-- **Large Language Models (LLMs)**
-- **Cloud Technologies**
-- **MLOps**
-- **DevOps**
+<a href="https://github.com/shaheennabi">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Explore+Repos;Your+Feedback+is+Appreciated;AI+in+the+City" alt="Typing SVG" />
+</a>
 
-I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like Retrieval-Augmented Generation (RAG) and LLM-based agents. I use statistics and mathematics to develop and refine deep learning algorithms, optimizing their performance and accuracy.
+</div>
 
-### 🚀 Experience
-**Founder**  
-*Lasso Pacific · Part-time*  
-Jan 2022 - Dec 2022  
-Anantnag, Jammu & Kashmir, India  
-I founded Lasso Pacific, where we offered AI and ML courses. Despite the challenges, including lack of resources and co-workers, I gained invaluable experience in starting an ed-tech business.
-
-### 🎓 Education
-**Ineuron.ai**  
-1 year course, Full Stack Data Science  
-Oct 2021 - Oct 2022  
-Learned from industry leaders like Sudhanshu Kumar (Machine Learning), Sunny Bhaveen Chandra (Deep Learning), Paul (Computer Vision), and Krish Naik (Statistics and Probability).
-
-**Y.K. Pora H.S.S**  
-High School Diploma, Computer Science  
-Apr 2021 - Oct 2023  
-Grade: 75.2  
-My school experience was less than ideal, but it didn't deter my passion for learning and growth.
-
-### 🛠️ Skills
-## Skills
-
-
-- **Databases**
-- **System Designing**
-- **API Development**
-- **Time Series Analysis**
-- **Diffusion Models**
-- **Transformer Models**
-- **Linux**
-- **Keras**
-- **CI/CD**
-- **Kubernetes**
-- **DevOps**
-- **LangChain**
-- **PyTorch**
-- **TensorFlow**
-- **Docker**
-- **Microsoft Azure**
-- **Git**
-- **Big Data**
-- **MLOps**
-- **LLMOps**
-- **LLMs**
-- **Statistics**
-- **AWS**
-- **Algorithms**
-- **Data Structures**
-- **Generative AI**
-- **Computer Vision**
-- **NLP**
-- **Probability**
-- **Python**
-- **Deep Reinforcement Learning**
-- **Deep Learning**
-- **Machine Learning**
-
-### 🌍 Languages
-- **English**
-- **Hindi**
-- **Urdu**
-- **Kashmiri**
-
-### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/shaheennabi/)
-- [Twitter (X)](https://twitter.com/shaheennabi1)
-- [Email](mailto:shaheen@example.com)
-
-Feel free to reach out to me via email at [ishaheennabi333@gmail.com](mailto:ishaheennabi333@gmail.com).
+<br/>
 
 ---
 
-Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
+<br/>
+
+
+
+
+
+
+<p align="center">
+    <a href="https://shaheennabi.github.io">
+        <img src="https://img.shields.io/badge/Website-shaheennabi.github.io-red?style=flat-square&logo=globe&logoColor=white" height="50">
+    </a>  
+    <a href="https://www.linkedin.com/in/shaheennabi/">
+        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" height="50">
+    </a>
+    <a href="mailto:ishaheennabi333@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="50">
+    </a>
+    <br/> 
+    <a href="https://github.com/shaheennabi">
+        <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="800">
+    </a>
+</p>
+
+
+<br>
+</br>
+
+<div align="center">
+
+# 🎇🌟 ⭐ ✨ Who I am ✨ ⭐ 🌟🎇
+</div>
+
+
+<div align="center">
+
+```╔════════════════════╗```
+```║ Passionate Developer & Data Scientist ║```
+```╚════════════════════╝```
+</div>
+
+<span style="font-size:20px;">I'm a **passionate data scientist** with a strong focus on **end-to-end projects** and **system design** with **software's best practices**. I try to design and implement solutions by using **design principles** and patterns, as writing **reusable** and **easy to read code** wins at many stages. From my beginnings as a **black hat script kiddie** exploring the dark web to becoming a **data scientist**. My journey has been so much **challenging** at every stage, but I am still **learning** a lot of things from the base, and will end up building some **great projects** in the future. I will be actively contributing to **open-source** & I believe the **real world knowledge** comes from solving **real-world problems**, not just by any academic credential.</span>
+
+
+
+<div align="center">
+
+```╔══════════════════════════════════════╗```
+```║           Connect • Code • Create     ║```
+```╚══════════════════════════════════════╝```
+
+</div>
+<div align="center">
+
+## 🎇🌟 ⭐ 🎆 ✨ 🌠 🎉 🚀 🌌 🎆 🎇 🌟 ⭐ ✨ 🎇 🌟 ⭐
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+</br>
+
+# 🌟 My Expertise Spans a Broad Range of Fields
+<br> <!-- Add space between the title and the badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300A1D6.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Machine Learning" height="50" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6600.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" height="50" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-%233B5998.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="50" />
+  <img src="https://img.shields.io/badge/NLP-%238C7B8D.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="NLP" height="50" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%23FFCC00.svg?style=for-the-badge&logo=openai&logoColor=black" alt="Generative AI" height="50" />
+  <img src="https://img.shields.io/badge/Big%20Data-%23000BFF.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data" height="50" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white" alt="Reinforcement Learning" height="50" />
+  <img src="https://img.shields.io/badge/LLMs-%2339B54A.svg?style=for-the-badge&logo=github&logoColor=white" alt="LLMs" height="50" />
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-%23F7B7A5.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud Technologies" height="50" />
+  <img src="https://img.shields.io/badge/MLOps-%23008000.svg?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" height="50" />
+  <img src="https://img.shields.io/badge/DevOps-%233C3E50.svg?style=for-the-badge&logo=git&logoColor=white" alt="DevOps" height="50" />
+  <img src="https://img.shields.io/badge/Research-%23F7B7A5.svg?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research" height="50" />
+</p>
+
+<br>
+</br>
+
+# My Tools & Technologies
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" height="50">
+  </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="50">
+  </a>
+  <a href="https://github.com/hwchase17/langchain">
+    <img src="https://img.shields.io/badge/Langchain-343131?style=for-the-badge&logo=LangChain&logoColor=white" height="50">
+  </a>
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" height="50">
+  </a>
+  <a href="https://llamaindex.ai/">
+    <img src="https://img.shields.io/badge/LlamaIndex-008000?style=for-the-badge&logo=LlamaIndex&logoColor=white" height="50">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="50">
+  </a>
+  <a href="https://cloud.google.com/vertex-ai">
+    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="50">
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="50">
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="50">
+  </a>
+  <a href="https://www.kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="50">
+  </a>
+  <a href="https://crew.ai/">
+    <img src="https://img.shields.io/badge/Crew%20AI-FF6F00?style=for-the-badge&logo=crewai&logoColor=white" height="50">
+  </a>
+</p>
+<br>
+ *I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**
+</br>
+
+<br> 
+</br>
+
+## My Github Status from Graphs
+<br>
+</br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheennabi&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheennabi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheennabi&theme=dracula)
+
+<br>
+
+
+</br>
+* Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
+
+
+[![](https://github.com/shaheennabi/shaheennabi/blob/main/chat.svg)](https://www.linkedin.com/in/shaheennabi/)
+=======
+
+
+
+
+
