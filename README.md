@@ -184,19 +184,6 @@
 </br>
 
 <br> 
-</br>
-
-## My Github Status from Graphs
-<br>
-</br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheennabi&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheennabi&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheennabi&theme=dracula)
-
-<br>
-
 
 </br>
 * Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
