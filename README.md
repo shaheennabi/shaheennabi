@@ -185,8 +185,7 @@
 
 <br> 
 
-</br>
-* Thank you for visiting my profile! Explore my repositories to see my projects and contributions. 🚀
+</br> 🚀
 
 
 =======
