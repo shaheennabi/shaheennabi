@@ -57,7 +57,15 @@
 ```╚════════════════════╝```
 </div>
 
-<span style="font-size:20px;">I'm a **passionate data scientist** with a strong focus on **end-to-end projects** and **system design** with **software's best practices**. I try to design and implement solutions by using **design principles** and patterns, as writing **reusable** and **easy to read code** wins at many stages. From my beginnings as a **black hat script kiddie** exploring the dark web to becoming a **data scientist**. My journey has been so much **challenging** at every stage, but I am still **learning** a lot of things from the base, and will end up building some **great projects** in the future. I will be actively contributing to **open-source** & I believe the **real world knowledge** comes from solving **real-world problems**, not just by any academic credential.</span>
+<span style="font-size:20px;"># Data Scientist  
+
+**Data Scientist with 3 months of internship experience**, skilled in **taking ideas from concept to deployment**, building **production-ready systems using cloud platforms**.  
+
+With a **deep understanding of algorithms** and a **strong theoretical foundation** in **ML, DL, CV, NLP, Generative AI**, I develop projects that leverage **industry-standard MLOps tools** to automate the entire lifecycle, from **versioning to post-production monitoring**.  
+
+Having **practical expertise in LLMs, RAG agentic workflows, and model inference on the cloud**, I deliver **AI solutions directly to customers** and use **design principles and patterns** to write **modular, maintainable code** that ensures **scalability**.  
+
+.</span>
 
 
 
