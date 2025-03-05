@@ -57,15 +57,16 @@
 ```╚════════════════════╝```
 </div>
 
-<span style="font-size:20px;"># Data Scientist  
+<span style="font-size:20px;">Data Scientist with **3 months of internship experience**, skilled in **taking ideas from concept to  
+deployment**, building **production-ready systems using cloud platforms**.  
 
-**Data Scientist with 3 months of internship experience**, skilled in **taking ideas from concept to deployment**, building **production-ready systems using cloud platforms**.  
+With a **deep understanding of algorithms** and a **strong theoretical foundation** in **ML, DL, CV, NLP,  
+Generative AI**. I develop projects that leverage **industry-standard MLOps tools** to automate the  
+entire lifecycle, from **versioning to post-production monitoring**.  
 
-With a **deep understanding of algorithms** and a **strong theoretical foundation** in **ML, DL, CV, NLP, Generative AI**, I develop projects that leverage **industry-standard MLOps tools** to automate the entire lifecycle, from **versioning to post-production monitoring**.  
-
-Having **practical expertise in LLMs, RAG agentic workflows, and model inference on the cloud**, I deliver **AI solutions directly to customers** and use **design principles and patterns** to write **modular, maintainable code** that ensures **scalability**.  
-
-.</span>
+Having **practical expertise in LLMs, RAG agentic workflows, and model inference on the cloud**,  
+I deliver **AI solutions directly to customers** and using **design principles and patterns** to write  
+**modular, maintainable code** that ensures **scalability**.  </span>
 
 
 
