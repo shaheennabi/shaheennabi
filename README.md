@@ -148,9 +148,6 @@
   <a href="https://azure.microsoft.com/">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="50">
   </a>
-  <a href="https://cloud.google.com/vertex-ai">
-    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="50">
-  </a>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50">
   </a>
@@ -172,9 +169,7 @@
   <a href="https://github.com/features/actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="50">
   </a>
-  <a href="https://www.kubernetes.io/">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="50">
-  </a>
+
   <a href="https://crew.ai/">
     <img src="https://img.shields.io/badge/Crew%20AI-FF6F00?style=for-the-badge&logo=crewai&logoColor=white" height="50">
   </a>
