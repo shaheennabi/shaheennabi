@@ -63,12 +63,7 @@
 <br>
 * I am a fast learner, I know the things current AI is build atop of *
 </br>
-
-<br> 
-
-</br> 🚀
-
-
+ 🚀
 =======
 
 
