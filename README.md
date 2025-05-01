@@ -1,10 +1,5 @@
 # Thanks for tuning here👋
 
-
-
-[![](https://github.com/shaheennabi/shaheennabi/blob/feature/chat.svg)](https://www.linkedin.com/in/shaheennabi/)
-
-
 <div align="center">
 
 <a href="https://github.com/shaheennabi">
