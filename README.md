@@ -60,26 +60,8 @@
 
 
 
-<div align="center">
-
-## 
-</div>
-
-
-
-
-
-
-
-
-
-
-
 <br>
-</br>
-
-<br>
-* I am a fast learner, I know the things that current AI is build atop of *
+* I am a fast learner, I know the things current AI is build atop of *
 </br>
 
 <br> 
