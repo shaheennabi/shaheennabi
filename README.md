@@ -58,8 +58,7 @@
 <br>
 * I am a fast learner, I know the things current systems are build atop of *
 </br>
- 🚀
-=======
+ 
 
 
 
