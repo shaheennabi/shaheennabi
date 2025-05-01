@@ -59,13 +59,7 @@
 ---
 
 
-<div align="center">
 
-```╔══════════════════════════════════════╗```
-```║           Connect • Code • Create     ║```
-```╚══════════════════════════════════════╝```
-
-</div>
 <div align="center">
 
 ## 
@@ -85,6 +79,7 @@
 </br>
 
 # 🌟 My Expertise Spans a Broad Range of Fields
+
 <br> <!-- Add space between the title and the badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300A1D6.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Machine Learning" height="30" />
@@ -92,17 +87,20 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-%233B5998.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="30" />
   <img src="https://img.shields.io/badge/NLP-%238C7B8D.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="NLP" height="30" />
   <img src="https://img.shields.io/badge/Generative%20AI-%23FFCC00.svg?style=for-the-badge&logo=openai&logoColor=black" alt="Generative AI" height="30" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Big%20Data-%23000BFF.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data" height="30" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white" alt="Reinforcement Learning" height="30" />
   <img src="https://img.shields.io/badge/LLMs-%2339B54A.svg?style=for-the-badge&logo=github&logoColor=white" alt="LLMs" height="30" />
   <img src="https://img.shields.io/badge/Cloud%20Technologies-%23F7B7A5.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud Technologies" height="30" />
   <img src="https://img.shields.io/badge/MLOps-%23008000.svg?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" height="30" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/DevOps-%233C3E50.svg?style=for-the-badge&logo=git&logoColor=white" alt="DevOps" height="30" />
   <img src="https://img.shields.io/badge/Research-%23F7B7A5.svg?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research" height="30" />
 </p>
 
 <br>
-</br>
 
 # My Tools & Technologies
 
@@ -167,12 +165,15 @@
   <a href="https://github.com/features/actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30">
   </a>
-  <a href="https://crew.ai/">
-    <img src="https://img.shields.io/badge/Crew%20AI-FF6F00?style=for-the-badge&logo=crewai&logoColor=white" height="30">
+  <a href="https://www.dvc.org/">
+    <img src="https://img.shields.io/badge/DVC-FFFFFF?style=for-the-badge&logo=dvc&logoColor=black" height="30">
+  </a>
+  <a href="https://www.elasticsearch.com/">
+    <img src="https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="30">
   </a>
 </p>
 <br>
- *I am dedicated to contributing to open-source AI projects and staying up-to-date with current trends like **Retrieval-Augmented Generation (RAG)** and **LLM-based agents**
+* I am a fast learner, I know the things that current AI is build atop of *
 </br>
 
 <br> 
