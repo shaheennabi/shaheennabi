@@ -36,7 +36,7 @@
 <div align="center">
 
 ```╔════════════════════╗```
-```║ Applid AI Engineer ║```
+```║ Applied AI Engineer ║```
 ```╚════════════════════╝```
 
 </div>
