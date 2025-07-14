@@ -41,7 +41,7 @@
 
 </div>
 
-- **Applied AI Engineer & Data Scientist** skilled in building **production-ready systems** using **cloud platforms**.
+- **“Machine Learning Engineer focused on building intelligent DevOps systems using Python, NLP, and cloud platforms.”**.
 - Strong **algorithmic foundation** with expertise in:
   - **Machine Learning (ML)**, **Deep Learning (DL)**
   - **Computer Vision (CV)**, **Natural Language Processing (NLP)**
