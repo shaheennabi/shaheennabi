@@ -41,12 +41,6 @@
 
 </div>
 
-- **“Machine Learning Engineer”**.
-- Strong **algorithmic foundation** 
-
-
----
-
 
 
 <br>
