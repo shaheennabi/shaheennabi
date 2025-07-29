@@ -41,15 +41,9 @@
 
 </div>
 
-- **“Machine Learning Engineer focused on building intelligent DevOps systems using Python, NLP, and cloud platforms.”**.
-- Strong **algorithmic foundation** with expertise in:
-  - **Machine Learning (ML)**, **Deep Learning (DL)**
-  - **Computer Vision (CV)**, **Natural Language Processing (NLP)**
-  - **Generative AI**
-- Expertise in **LLMs**, **RAG**, and **agentic workflows** for **model inference** on the cloud.
-- Proficient in utilizing **MLOps tools** to automate the **AI lifecycle** from **versioning to post-production monitoring**.
-- Focused on writing **scalable**, **modular**, and **maintainable code** with **design principles and patterns**.
-- Passionate about delivering **AI solutions** that drive **real-world impact**.
+- **“Machine Learning Engineer”**.
+- Strong **algorithmic foundation** 
+
 
 ---
 
