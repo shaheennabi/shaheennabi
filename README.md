@@ -36,7 +36,7 @@
 <div align="center">
 
 ```╔════════════════════╗```
-```║ Machine Learning Engineer ║```
+```║ research --low resource languages ║```
 ```╚════════════════════╝```
 
 </div>
