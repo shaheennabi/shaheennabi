@@ -40,7 +40,7 @@
 ```╚════════════════════╝```
 
 </div>
-
+Maintainer of an open-source 25k+ image dataset on Hugging Face used by thousands of developers.
 
 
 <br>
