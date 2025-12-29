@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/shaheennabi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=On+a+new+phase;Low+Resource+Language+Research;Have+a+great+visit" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Reasoning+and+thinking+models; and+Reinforcement+Learning+Research;Have+a+great+visit" alt="Typing SVG" />
 </a>
 
 </div>
@@ -36,7 +36,7 @@
 <div align="center">
 
 ```╔════════════════════╗```
-```║ research --low resource languages ║```
+```║ research -- thinking, reasoning models ║```
 ```╚════════════════════╝```
 
 </div>
