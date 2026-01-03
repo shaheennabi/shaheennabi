@@ -43,7 +43,7 @@
 
 </div>
 <br>
-Maintainer of an open-source 25k+ image dataset on Hugging Face used by thousands of developers.
+Maintainer of an open-source 25k+ image dataset on Hugging Face used by thousands of developers.falcon 9-- sonic boom 💥 is my caffeine 
 </br>
 
 
