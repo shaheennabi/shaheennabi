@@ -4,7 +4,7 @@
 
 <a href="https://github.com/shaheennabi">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Reasoning+and+Thinking+Models;Reinforcement+Learning+Research;Have+a+Great+Visit"
+    src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Reasoning+or+Thinking+Models;Reinforcement+Learning+Research;Have+a+Great+Visit"
     alt="Typing SVG"
   />
 </a>
