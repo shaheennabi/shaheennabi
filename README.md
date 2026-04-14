@@ -43,13 +43,17 @@
 
 </div>
 <br>
-Maintainer of an open-source 25k+ image dataset on Hugging Face used by thousands of developers.
-falcon 9-- sonic boom 💥 is my caffeine 
+I study how large language models perform multi-step reasoning and how training and post-training methods can improve their reliability, efficiency, and scalability.
+
+My work focuses on the post-training stack for LLMs — supervised fine-tuning (SFT), preference optimization, reinforcement learning methods such as RLVR, and inference-time compute strategies that improve reasoning without requiring larger models.
+
+I’m also interested in the interpretability of reasoning models: understanding the internal mechanisms that support multi-step reasoning and diagnosing failures such as shortcut reasoning, reward hacking, and unfaithful chain-of-thought.
+
+Currently building and open-sourcing implementations of reasoning-focused training pipelines and contributing to LLM infrastructure and post-training frameworks.
 </br>
 
 
 <br>
-* I am a fast learner, I know the things current systems are build atop of *
 * I love SpaceX rockets *
 </br>
  
