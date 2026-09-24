@@ -23,4 +23,4 @@ My work focuses on the post-training stack for LLMs: supervised fine-tuning (SFT
 
 I'm also interested in the interpretability of reasoning models: understanding the internal mechanisms behind multi-step reasoning, and diagnosing failures such as shortcut reasoning, reward hacking, and unfaithful chain-of-thought.
 
-Currently researching mechanistic interpretability of reasoning models at IISc, and building and open-sourcing reasoning-focused post-training pipelines and evaluation systems.
+Currently research at @cmu.
