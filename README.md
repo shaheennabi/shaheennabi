@@ -1,24 +1,27 @@
-# Thanks for stopping by 👋
+# Shaheen Nabi
 
-<div align="center">
-<a href="https://github.com/shaheennabi">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=2000&pause=100&multiline=true&width=500&height=90&lines=Reasoning+%26+Thinking+Models;RL+Post-Training+%26+Inference;Agentic+RL+%26+Interpretability"
-    alt="Typing SVG"
-  />
-</a>
-</div>
+Building reliable post-training systems and distributed infrastructure to train and scale open-weight reasoning models.
 
-<p align="center">
-  <a href="https://github.com/shaheennabi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=shaheennabi&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="800">
-  </a>
-</p>
+---
 
-## About
+### Focus Areas
 
-Currently building an "open post-training system" to train and advance open-weight models through reinforcement learning on long-horizon coding and agentic tasks.
+- **RL Post-Training & Inference:** Systems for long-horizon reasoning, agentic evaluation, and RLVR/PPO.
+- **Distributed Infrastructure:** Scaling rollout generation, sandboxed execution environments, and automated verifiers.
+- **Performance & Accelerators:** GPU/TPU kernel optimization, memory reduction, communication primitives, and throughput profiling.
 
-Focused on building the complete RL stack: distributed orchestration, rollout generation, sandboxed environments, verifiers, training, inference, and evaluation. Building reliable, scalable infrastructure with robust APIs, automated testing, and observability, while studying training dynamics, debugging failures, and running controlled experiments to improve model capabilities over increasingly long horizons.
+---
 
-Optimizing end-to-end training and inference performance through distributed systems engineering, GPU and TPU kernel development, memory and communication optimization, profiling, and benchmarking. Focused on eliminating bottlenecks, maximizing hardware utilization, and improving throughput and efficiency across accelerator architectures.
+### About
+
+I am building an open post-training framework dedicated to advancing open-weight models using reinforcement learning on complex coding and agentic tasks.
+
+My work spans the full RL post-training stack—from distributed orchestration and sandboxed runtime environments to verifiers, inference, and model evaluation. Beyond infrastructure, I conduct controlled experiments to study training dynamics, inspect edge-case failures, and scale credit assignment over long execution trajectories.
+
+On the systems side, I focus on end-to-end efficiency: writing custom kernels, optimizing multi-accelerator memory and communication overhead, and eliminating execution bottlenecks to maximize hardware utilization.
+
+---
+
+### Connect
+
+- **GitHub:** [@shaheennabi](https://github.com/shaheennabi)
