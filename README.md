@@ -1,15 +1,6 @@
 # Shaheen Nabi
 
 Building reliable post-training systems and distributed infrastructure to train and scale open-weight reasoning models.
-
----
-
-### Focus Areas
-
-- **RL Post-Training & Inference:** Systems for long-horizon reasoning, agentic evaluation, and RLVR/PPO.
-- **Distributed Infrastructure:** Scaling rollout generation, sandboxed execution environments, and automated verifiers.
-- **Performance & Accelerators:** GPU/TPU kernel optimization, memory reduction, communication primitives, and throughput profiling.
-
 ---
 
 ### About
@@ -24,4 +15,4 @@ On the systems side, I focus on end-to-end efficiency: writing custom kernels, o
 
 ### Connect
 
-- **GitHub:** [@shaheennabi](https://github.com/shaheennabi)
+- **Linkedin:** [@shaheennabi](https://www.linkedin.com/in/shaheennabi/)
