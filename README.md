@@ -15,12 +15,10 @@
   </a>
 </p>
 
-## Who I am
+## About
 
-I study how large language models perform multi-step reasoning, and how training and post-training methods can improve their reliability, efficiency, and scalability.
+Currently building an "open post-training system" to train and advance open-weight models through reinforcement learning on long-horizon coding and agentic tasks.
 
-My work focuses on the post-training stack for LLMs: supervised fine-tuning (SFT), preference optimization, reinforcement learning methods such as RLVR and agentic RL, and inference-time compute strategies that improve reasoning without requiring larger models — including RL environments and sandboxed setups for training and evaluating tool-using and coding agents.
+Focused on building the complete RL stack: distributed orchestration, rollout generation, sandboxed environments, verifiers, training, inference, and evaluation. Building reliable, scalable infrastructure with robust APIs, automated testing, and observability, while studying training dynamics, debugging failures, and running controlled experiments to improve model capabilities over increasingly long horizons.
 
-I'm also interested in the interpretability of reasoning models: understanding the internal mechanisms behind multi-step reasoning, and diagnosing failures such as shortcut reasoning, reward hacking, and unfaithful chain-of-thought.
-
-Currently research at @cmu.
+Optimizing end-to-end training and inference performance through distributed systems engineering, GPU and TPU kernel development, memory and communication optimization, profiling, and benchmarking. Focused on eliminating bottlenecks, maximizing hardware utilization, and improving throughput and efficiency across accelerator architectures.
