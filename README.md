@@ -1,6 +1,6 @@
 # Shaheen Nabi
 
-Building reliable post-training systems and distributed infrastructure to train and scale open-weight reasoning models.
+Building Open Posttraining System — reliable, distributed RL infrastructure for training swarms of agents.
 ---
 
 ### About
